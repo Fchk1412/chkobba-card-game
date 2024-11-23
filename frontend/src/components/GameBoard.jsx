@@ -7,8 +7,8 @@ const GameBoard = () => {
         <h1 className="text-2xl font-bold text-center text-gray-800">Chkobba Game</h1>
         <div className="mt-4">
 
-        // lgame code 
-        
+        {/*Ui*/}
+
         </div>
       </div>
     </div>
